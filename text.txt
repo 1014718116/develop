@@ -1,8 +1,4 @@
 first commit 
 create a new branch dev
-<<<<<<< HEAD
 conflict problem
-confilct problem master 
-=======
 conflict problem
->>>>>>> dev
